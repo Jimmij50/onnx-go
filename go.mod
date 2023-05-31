@@ -1,5 +1,4 @@
-module github.com/owulveryck/onnx-go
-
+module github.com/Jimmij50/onnx-go
 go 1.19
 
 require (
